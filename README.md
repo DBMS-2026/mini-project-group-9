@@ -189,6 +189,18 @@ flutter build apk --release
 
 ---
 
+## 👥 Team — Group 9
+
+| Name | Enrollment No. | Contributions |
+|------|---------------|---------------|
+| **Aditya Tomar** | IIT2024024 | Entire frontend (Flutter), Authentication system (Google OAuth + JWT), Frontend-Backend integration |
+| **Tanush Vaghela** | IIT2024017 | Virtual card system and payment tokenization |
+| **Raj Sharma** | IIT2024012 | P2P split system and C++ settlement engine (pybind11 Minimum Cash Flow) |
+| **Nikhil Goyal** | IIT2024020 | Transaction ingestion pipeline and recurring pattern detection |
+| **Parthiv Raju** | IIT2024022 | Neo4j-based knowledge graph, redundancy analysis, and fatigue score analytics |
+
+---
+
 ## 📄 License
 
 This project was built as part of the DBMS course at IIIT Allahabad.
