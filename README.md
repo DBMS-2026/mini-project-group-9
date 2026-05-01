@@ -189,14 +189,6 @@ flutter build apk --release
 
 ---
 
-## 👥 Team — Group 9
-
-| Name | Role |
-|------|------|
-| Aditya Tomar | Full-Stack Development, System Architecture, C++ Engine |
-
----
-
 ## 📄 License
 
 This project was built as part of the DBMS course at IIIT Allahabad.
